@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-atrial-fibrillation-af---primary.py
+inputModule3:
+  class: File
+  path: python/rapid-ccu002_02-atrial-fibrillation-af---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-atrial-fibrillation-af-letter---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-atrial-fibrillation-af-flutter---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-atrial-fibrillation-af-invitation---primary.py
+inputModule7:
+  class: File
+  path: python/paroxysmal-ccu002_02-atrial-fibrillation-af---primary.py
+inputModule8:
+  class: File
+  path: python/chronic-ccu002_02-atrial-fibrillation-af---primary.py
+inputModule9:
+  class: File
+  path: python/fibrillation---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-atrial-fibrillation-af-quality---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_02-atrial-fibrillation-af-monitoring---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
